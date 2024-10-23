@@ -1,3 +1,8 @@
 Hello!
 I am Alok Sharma.
 I am practicing how to clone a git repository.
+
+
+#########################################################
+Sample.txt file is modified by the developerX.
+#########################################################
