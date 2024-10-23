@@ -7,3 +7,9 @@ GIT FETCH DEMONSTRATION
 #########################################################
 Sample.txt file is modified by the developerX.
 #########################################################
+
+
+GIT PULL DEMONSTRATION
+*********************************************************
+Sample.txt file is further modified by the developerY.
+*********************************************************
