@@ -1,11 +1,3 @@
 Hello!
 I am Alok Sharma.
 I am practicing how to clone a git repository.
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-
-
-####### new modification done in sample.txt file #########
-Hello!!!!!!!!!!!!!!!!
-All the Best...............
